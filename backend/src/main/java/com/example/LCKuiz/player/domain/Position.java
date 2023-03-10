@@ -2,8 +2,8 @@ package com.example.LCKuiz.player.domain;
 
 public enum Position {
     TOP,
-    JUNGLE,
+    JGL,
     MID,
-    AD,
-    SUPPORT
+    BOT,
+    SPT
 }
